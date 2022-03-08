@@ -1,3 +1,3 @@
-# ME759
+# ECE759
 
-ME/CS 759 :  High Performance Computing for Engineering Applications(Graduate)
+ME/CS/ECE 759 :  High Performance Computing for Engineering Applications(Graduate)
